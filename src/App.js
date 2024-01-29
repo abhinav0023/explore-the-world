@@ -13,6 +13,9 @@ function App() {
       <Grid item xs={12} md={4}>
           <Map/>
       </Grid>
+      <Grid item xs={12} md={4}>
+          <List/>
+      </Grid>
    </Grid>
    </>
   );
